@@ -15,4 +15,4 @@ We will be using a scrum process model for project management.
 
 
 # Documentation
-Complete documentation of the project including `Requirement Understanding`, `Design Document`, `Screen Wireframes Design`, `Technical Architecture`, `Testing Plan`, `Test Cases`, `Followed Coding Standard`, `Scrum Meetings` and `Diagrams - DFD, ER, Sequence`can be found under the Documentation directory.
+Complete documentation of the project including `Requirement Understanding`, `Design Document`, `Screen Wireframes Design`, `Technical Architecture`, `Testing Plan`, `Test Cases`, `Followed Coding Standard`, `Scrum Meetings` and `Diagrams - DFD, ER, Sequence`can be found (here)[https://drive.google.com/drive/folders/1FeC4C4XQOYGRuO3TZUwEszHbpNpMtmz9?usp=sharing]
