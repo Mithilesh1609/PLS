@@ -1,2 +1,4 @@
-# PLS_SE
-## Content
+# PLS - Peer Learning System
+
+## Abstract / Project Description
+In the modern education scenario, where students are learning remotely and due to lack of one on one interaction and online learning, individual feedback is next to impossible. Peer learning, which is a solution to all of the above problems, will be the next milestone to be achieved. So, our focus is to build the system on peer learning and feedback based online learning. We have a google classroom to share documents and give feedback, but peers can't discuss it in the thread-like commenting form. We are merging few of the relevant functionalities of LMS of AU, Gyapak, Google classroom, StackOverflow in our peer learning platform. It will be all in one platform where students can see their course grades, course feedback, assignment feedback, course wise projects, and much more.
