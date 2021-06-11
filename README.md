@@ -17,7 +17,7 @@ We will be using a scrum process model for project management.
 # Documentation
 Complete documentation of the project including `Requirement Understanding`, `Design Document`, `Screen Wireframes Design`, `Technical Architecture`, `Testing Plan`, `Test Cases`, `Followed Coding Standard`, `Scrum Meetings` and `Diagrams - DFD, ER, Sequence`can be found [here](https://drive.google.com/drive/folders/1FeC4C4XQOYGRuO3TZUwEszHbpNpMtmz9?usp=sharing).
 
-#### NOTE 
+### NOTE 
 + This project was part of the Software Engineering Course, so purpose of this project was to learn software engineering practices and processes(as we have followed the Scrum Process Model) through the project work. So we have more focused on documentation part of the project and done a decent job over building the PLS app, so please keep this in mind before judging the work :)
 + To see the deployment click [here](https://plsse.herokuapp.com/). 
 + You can use the following credentials to use the app.
